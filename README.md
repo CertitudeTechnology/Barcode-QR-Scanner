@@ -7,9 +7,4 @@
 
 <b>2. Photos of your phone</b>
 
-   QR Barcode Scanner can scan the QR Code from an image. So it needs to access you photos so that you can choose one to scan.
-
-
-<b>3. wi-fi settings</b>
-
-   QR Barcode Scanner can generate QR Code of the user name, password, etc. for a wi-fi network. So app need access wi-fi settings to do this.
+   Barcode-QR-Scanner can scan the QR Code from an image. So it needs to access you photos so that you can choose one to scan.
